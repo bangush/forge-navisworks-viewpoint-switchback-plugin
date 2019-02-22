@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a sample demonstrating how to convert Forge Viewer camera (position, target, up and model global offsets) to Navisworks viewpoint.
+This is a sample demonstrating how to convert Forge Viewer camera (position, target, up and model global offsets) to Navisworks viewpoint. [Demo Video](https://youtu.be/aul5nfLjsUg)
 
 
 ## License
